@@ -1,0 +1,15 @@
+
+2016-05-30 16:16:41,382
+INFO : org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2bb10f9a: startup date [Mon May 30 16:16:41 KST 2016]; root of context hierarchy
+
+
+2016-05-30 16:16:41,418
+INFO : org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [app.xml]
+
+
+2016-05-30 16:16:41,762
+INFO : org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
